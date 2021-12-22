@@ -1,6 +1,8 @@
 """
-Hello
+1- change Hello
+2- change is to modify the code on github (implicitly using git)
 """
+
 import pandas
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
