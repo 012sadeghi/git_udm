@@ -1,6 +1,8 @@
 """
 1- change Hello
-2- change is to modify the code on github (implicitly using git)
+2- change is to modify the code on github (implicitly using git);
+3- git reset HEAD <file name>
+4- git checkout --
 """
 
 import pandas
