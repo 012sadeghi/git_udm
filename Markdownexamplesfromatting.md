@@ -4,7 +4,7 @@ Android | iOS | Windows
 Medium App for Android | Medium App for iOS | **Medium App for Windows** 
 sdf ;ls fj;aljsf laksjdflifj;aldsflkahsgfnkjj | asdkjfh;ajlsdkh;lkjashdf;ljashdf;ljhas'ddfi | alksudfhlkjasdhlkshadflkh aslkdfhd 
 [Play store](https://play.google.com/store?&utm_source=na_Med&utm_medium=hasem&utm_content=Nov0520&utm_campaign=Evergreen&pcampaignid=MKT-EDR-na-us-1000189-Med-hasem-py-Evergreen-Nov0520-Text_Search_BKWS-id_100742_%7CEXA%7CONSEM_kwid_43700045371544919&gclid=Cj0KCQiA5aWOBhDMARIsAIXLlkeHtPRwAOlKJexDRcg0663SYNKyg6EcLhcbX8TvoHXb8l9uRhXIUdMaAs0nEALw_wcB&gclsrc=aw.ds) | [App store](https://www.apple.com/app-store/) | [just web](https://www.google.com/?client=safari)
-![](https://image.similarpng.com/thumbnail/2020/11/Android-sign-icon-design-illustration-on-transparent-background-PNG.png) | ![](https://pic.onlinewebfonts.com/svg/img_204828.png "some texts") | !()[windows-icon-png-5802.png]
+![](https://image.similarpng.com/thumbnail/2020/11/Android-sign-icon-design-illustration-on-transparent-background-PNG.png) | ![](https://pic.onlinewebfonts.com/svg/img_204828.png "some texts") | ![](windows-icon-png-5802.png)
 
 
 * [ ] Task 1
