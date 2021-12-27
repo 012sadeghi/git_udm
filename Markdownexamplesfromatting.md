@@ -1,3 +1,10 @@
+## Writing code blocks using Markdown
+Inline code writing happens like this `ProgrammeingFileName=Analytics` and if you want to do it as a block of a code you need to use
+
+``` python
+from matplotlib import payplot as plt
+```
+
 # Tables 
 Android | iOS | Windows
 :------- | :---: | --------:
