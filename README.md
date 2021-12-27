@@ -9,4 +9,4 @@ from matplotlib import payplot as plt
 
 ```
 
-![png][GitHub-logo.png]
+![png](GitHub-logo.png)
